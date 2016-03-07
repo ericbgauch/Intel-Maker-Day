@@ -1,0 +1,10 @@
+void setup() {      // inicialização
+  pinMode(13, OUTPUT); // define pino 13 como saída
+}
+
+void loop() {      // repete o que esta entre {}
+  digitalWrite(13, HIGH);   // liga o led conectado na saída 13
+  delay(1000);              // aguarda 1 segundo
+  digitalWrite(13, LOW);    // desliga o led conectado na saída 13
+  delay(1000);              // aguarda mais 1 segundo
+} // repete
