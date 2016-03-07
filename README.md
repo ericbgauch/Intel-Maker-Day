@@ -5,8 +5,10 @@ Aqui vamos encontrar todos os exemplos apresentados.
 =)
 
 TODO:
-- terminar de comentar EX4 e EX6
-- adicionar mais slides
+- revisar comentários do EX 6
 - fazer o fritzing dos exemplos
-- colocar o código exemplo to Tweet presença no git hub
-- testar todos os códigos e circuitos!
+
+LINKS:
+
+- Gerar token do Twitter
+ https://api.twitter.com/oauth/authorize?oauth_nonce=15797670194508223421&oauth_timestamp=1457380746&oauth_consumer_key=oQA2jr32rWowM4SpGB64yQ&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_token=iDzNlgAAAAAAAViGAAABU1KpY9c&oauth_signature=LRPEo2hgh6BL9%2FcPPfqJQXzPk6g%3D
