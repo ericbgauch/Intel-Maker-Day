@@ -7,6 +7,7 @@ Aqui vamos encontrar todos os exemplos apresentados.
 TODO:
 - revisar comentários do EX 6
 - fazer o fritzing dos exemplos
+- adicionar os exemplos restantes no slide
 
 LINKS:
 
